@@ -1,0 +1,2 @@
+﻿1. implement all functions
+2. Test functions

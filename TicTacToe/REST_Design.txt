@@ -1,0 +1,10 @@
+﻿
+Get  - get current board
+Update  - Player Make "Move". Update Board
+
+
+
+
+
+In the UI, a player can make Update call to make move and update Board.
+Player can make Get call to get current Board. It contains its property(moves).
